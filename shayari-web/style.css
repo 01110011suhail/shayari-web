@@ -317,15 +317,16 @@ font-size:45px;
 
 #shayari{
 
-font-family:'Dancing Script';
+font-family:'dancing script',cursive;
 
-font-size:24px;
+font-size:28px;
 
 line-height:1.2;
+font-weight:900;
 
 white-space:pre-line;
 
-color:#321c0d;
+color:#431f06;
 
 }
 

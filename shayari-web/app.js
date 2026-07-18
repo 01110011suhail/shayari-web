@@ -124,25 +124,18 @@ author:"— ."
 Sad:[
 
 {
-text:`Jo naseeb mein nahi tha, uski umeed kyun hai,
-Jo saath hai aaj, usse doori ki zid kyun hai?
-
-Ajeeb hai dil ka faisla bhi,
-Jise khabar tak nahi hamare dard ki,
-Usi ke liye aankhon mein intezaar kyun hai?`,
+text:`Chal katam hui ab hamari mohabbat ki kahani,
+aur tum wo sab karna jis cheez ke liye my,
+tumhe rok tha tha.......
+`,
 author:"—."
 },
 
 {
-text:`Jo kabhi mil na saka,
-Uska intezaar kyun hai?
-
-Jo paas reh kar bhi apna nahi,
-Usse khone ka darr kyun hai?
-
-Dil bhi ajeeb cheez hai,
-Jise bhoolna chahiye,
-Usi ko yaad kyun karta hai?`,
+text:`tere gamo pe aankhe sekne nahi aunga,
+tere dehliz per matha tekne nahi aunga,
+aur gusse mein admi aukaat ke bahar keh deta hai,
+mein ne kaha tha marogi tab bhi dekne nai aunga..`,
 author:"—."
 },
 
