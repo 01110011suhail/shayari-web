@@ -121,6 +121,47 @@ author:"— ."
 
 ],
 
+
+Romantic:[
+{
+text:`tujhe chhue bina bhi
+mehsoos kar sakta hoon,
+Tujhe dekhe bina bhi
+yaad kar sakta hoon,
+Main tere ehsaas se bhi
+Ishq kar sakta hoon,
+Tujhe chhue bina bhi
+apna bana sakta hoon.`,
+
+author:"—."
+},
+{
+text:`Bone mein second lagta hain sochne
+Mein minute lagta hain samajhne 
+Mein din lagta hain saabit karne mein
+Poori zindagi lag jaati hai..`,
+author:"— Inspiration"
+},
+{
+text:`Jo tu haar gaya toh yaad rakhna 
+Tera sath dena wala
+Koi nahi hoga,
+Jo tu jeet gaya to 
+Duniya ke liye tera har
+Galat faisla bhi sahi hoga..`,
+author:"— Inspiration"
+},
+
+{
+text:`Sapne woh nahi jo sote waqt aate hain,
+
+Sapne woh hain jo jagne nahi dete.`,
+author:"— Unknown"
+}
+
+]
+,
+
 Sad:[
 
 {
